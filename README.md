@@ -1,6 +1,6 @@
 # CodeCrashers
 
-Deze repository correspondeert met de [**Projectmatig werken**](https://codecrashers.nl/cursussen/projectmatig-werken) cursus van CodeCrashers.
+Deze repository correspondeert met de [**Projectmatig werken**](https://codecrashers.nl/lesmateriaal/projectmatig-werken) cursus van CodeCrashers.
 
 ---
 
